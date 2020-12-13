@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 人生就是一个不断学习的过程
 
-You can use the [editor on GitHub](https://github.com/gozhuyinglong/gozhuyinglong.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+人生就是一个不断学习的过程，通过学习来充实自己的头脑，让自己更有智慧的生活下去，去探索那未知领域的神秘，去享受成长带来的快乐和惬意。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 关于本代码仓库
+1. CSDN博客地址：[https://blog.csdn.net/gozhuyinglong](https://blog.csdn.net/gozhuyinglong)
+2. 这个代码仓库里是博客中涉及的源码、文件等
+3. 如果对您有帮助，请给个Star，谢谢您！
 
-### Markdown
+## 数据结构与算法系列
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gozhuyinglong/gozhuyinglong.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Java数据结构与算法分析
+1. 《 [数组](https://blog.csdn.net/gozhuyinglong/article/details/109702860) 》
+2. 《 [稀疏数组](https://blog.csdn.net/gozhuyinglong/article/details/109723684) 》
+3. 《 [链表（单链表、双链表、环形链表）](https://blog.csdn.net/gozhuyinglong/article/details/109967815) 》
+4. 《 [栈](https://blog.csdn.net/gozhuyinglong/article/details/110149473) 》
+5. 《 [队列](https://blog.csdn.net/gozhuyinglong/article/details/110365900) 》
+6. 《 [树](https://blog.csdn.net/gozhuyinglong/article/details/110394480) 》
+7. 《 [二叉树](https://blog.csdn.net/gozhuyinglong/article/details/110418481) 》
+8. 《 [二叉查找树（BST）](https://blog.csdn.net/gozhuyinglong/article/details/110729019) 》
