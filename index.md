@@ -18,6 +18,7 @@
 * 《 [树](https://mp.weixin.qq.com/s/Ui5p4RQRwEHv4a_HWeXJYQ) 》
 * 《 [二叉树](https://mp.weixin.qq.com/s/XkeEyUCCvQ_AtMLBUYTH0Q) 》
 * 《 [二叉查找树（BST）](https://mp.weixin.qq.com/s/6S8M6r-EY4IMF3UUvZ7_AA) 》
+* 《 [AVL树（平衡二叉树）](https://mp.weixin.qq.com/s/eeXi_11illdVqMnkse_mhQ) 》
 
 ## 码农工具箱
 
