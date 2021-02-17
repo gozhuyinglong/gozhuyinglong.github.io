@@ -6,7 +6,7 @@
 
 # 关于【blog-demos】代码仓库
 
-1. 这个代码仓库主页：[Github](https://github.com/gozhuyinglong/blog-demos) | [Gitee](https://gitee.com/gozhuyinglong/blog-demos)
+1. 这个代码仓库主页：[Github](https://github.com/gozhuyinglong/blog-demos) · [Gitee](https://gitee.com/gozhuyinglong/blog-demos)
 2. 这个代码仓库里是博客中涉及的源码、文件等
 3. 如果对您有帮助，请给个Star，谢谢您！
 
