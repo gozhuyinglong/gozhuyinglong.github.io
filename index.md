@@ -6,11 +6,10 @@
 
 # 关于【blog-demos】代码仓库
 
-* 这个代码仓库主页：
-  * Gitee： [https://gitee.com/gozhuyinglong/blog-demos](https://gitee.com/gozhuyinglong/blog-demos)
-  * Github：[https://github.com/gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos/)
-* 这个代码仓库里是博客中涉及的源码、文件等
-* 如果对您有帮助，请给个Star，谢谢您！
+1. 这个代码仓库主页：[https://github.com/gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos/)
+2. 在码云中同步更新：[https://gitee.com/gozhuyinglong/blog-demos](https://gitee.com/gozhuyinglong/blog-demos)
+3. 这个代码仓库里是博客中涉及的源码、文件等
+4. 如果对您有帮助，欢迎给个**Star**，感谢~~
 
 ## 数据结构与算法
 
