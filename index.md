@@ -4,10 +4,10 @@
 
 ![](qrcode_for_gh_0d3e241c6f10_258.jpg)
 
-# 关于【blog-demos】代码仓库
+# 关于 blog-demos 代码仓库
 
-1. 这个代码仓库主页：[https://github.com/gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos/)
-2. 在码云中同步更新：[https://gitee.com/gozhuyinglong/blog-demos](https://gitee.com/gozhuyinglong/blog-demos)
+1. Github地址：[https://github.com/gozhuyinglong/blog-demos](https://github.com/gozhuyinglong/blog-demos/)
+2. Gitee地址：[https://gitee.com/gozhuyinglong/blog-demos](https://gitee.com/gozhuyinglong/blog-demos)
 3. 这个代码仓库里是博客中涉及的源码、文件等
 4. 如果对您有帮助，欢迎给个**Star**，感谢~~
 
