@@ -37,14 +37,18 @@
 * [如何将代码同时提交到Github和码云Gitee上](https://mp.weixin.qq.com/s/7xvtYbW_U73QbAVW_4wCSw)
 * [80行Python代码搞定全国区划代码](https://mp.weixin.qq.com/s/RrryeSKCAwD61NHfjaFOrA)
 
-## Java源码解析
+## Java系列
 
 * [Java反射机制：跟着代码学反射](https://mp.weixin.qq.com/s/-JfevVj0xVHBAZ_AgowZAQ)
 * [JDK动态代理：不仅要学会用，更要掌握其原理](https://mp.weixin.qq.com/s/0M7ENqhZ2IjmPeFbf_vEqQ)
 
-## Spring源码解析
+## Spring系列
 
 * [@Import注解：导入配置类的四种方式&源码解析](https://mp.weixin.qq.com/s/DcWEo6-7-W1yFpEdkcwIJQ)
+
+## SpringBoot系列
+
+* [SpringBoot自动配置原理](https://mp.weixin.qq.com/s/UXNcTOpjx9cr4kd4ECPg6g)
 
 ## Netty系列
 
