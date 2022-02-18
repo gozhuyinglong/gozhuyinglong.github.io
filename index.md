@@ -29,6 +29,7 @@
 
 * [单例模式](https://mp.weixin.qq.com/s/bb2LhnCDUZfprHwLtAK18Q)
 * [简单工厂模式](https://mp.weixin.qq.com/s/tS_m1_8E0wn24UNkHTXeug)
+* [工厂方法模式](https://mp.weixin.qq.com/s/vGoPrfAUFIoe7MJKGhZ9WQ)
 * [策略模式](https://mp.weixin.qq.com/s/FfhMIrD72vBWTGJe5yJzxw)
 
 ## 码农工具箱
