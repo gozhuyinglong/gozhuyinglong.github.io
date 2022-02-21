@@ -49,7 +49,8 @@
 
 ## SpringBoot系列
 
-* [SpringBoot自动配置原理](https://mp.weixin.qq.com/s/UXNcTOpjx9cr4kd4ECPg6g)
+* [Spring Boot 自动配置原理](https://mp.weixin.qq.com/s/UXNcTOpjx9cr4kd4ECPg6g)
+* [Spring Data Redis 是如何在 Jedis 和 Lettuce 之间切换的？](https://mp.weixin.qq.com/s/Dymb63z5DY7IAlOFeA82iQ)
 
 ## Netty系列
 
